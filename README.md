@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IvanBesti
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python project
+- 👀 I’m interested in R
+- 🌱 I’m currently learning R
+- 💞️ I’m looking to collaborate on R project
 - 📫 How to reach me @crack3806@gmail.com
 
 <!---
